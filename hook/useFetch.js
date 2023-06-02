@@ -12,7 +12,7 @@ const useFetch = () => {
     url: 'https://jsearch.p.rapidapi.com/search',
     params: {query: 'React Developer', page: '1', num_pages: '1'},
     headers: {
-      'X-RapidAPI-Key': '5869415b42mshf46363e67977868p172bdfjsnb76178889ef0',
+      'X-RapidAPI-Key': 'GENERATE_YOUR_OWN_API_KEY',
       'X-RapidAPI-Host': 'jsearch.p.rapidapi.com'
     }
   };
